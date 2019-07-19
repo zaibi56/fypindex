@@ -1,0 +1,60 @@
+body{
+	background-color: #F6F6F6;
+}
+.header1{
+            background-color: #00978A;
+            color: white;
+            text-align: center;
+           
+            padding-top:20px;
+            
+         }
+
+.navbar a{
+	
+	margin: 5px;
+	/*padding: 10px;*/
+	text-decoration: none;
+	color: white;
+	font-size: 15px;
+}
+
+#collapsibleNavbar li a{
+	color: white;
+}
+#collapsibleNavbar li a:hover{
+	color: red;
+	font-size: 15px;
+
+}
+.div-styling{
+	margin: 15px;
+	background-color: #00978A;
+	color: white;
+	padding: 8px;
+	text-align: center;	
+}
+.background{
+	/*margin-top: 10vh;*/
+	background-color: #F6F6F6;
+	border: 2px solid red;
+	/*text-align: center;	*/
+	/*padding-top: 10vh;*/
+}
+#last-link{
+	/*text-align: right;*/
+	margin-left: 700px;
+}
+.more{
+	color: #EDC7B7;
+	margin-left: 30px;
+	font-size: 15px;
+}
+.styling{
+	margin: 15px;
+	/*padding: 8px;*/
+	/*text-align: center;	*/
+}
+
+
+    
